@@ -1,0 +1,11 @@
+cssselect
+factory_boy
+flake8
+ipdb
+mock
+pytest
+pytest-bdd
+pytest-django
+pytest-mock
+pytest-pythonpath
+splinter
